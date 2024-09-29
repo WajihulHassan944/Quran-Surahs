@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/sheharyarIshfaq/Al-Quran">
+  <a href="https://github.com/WajihulHassan944/Quran-Surahs">
     <img src="./src/images/logo.svg" alt="Logo" width="150" height="100">
   </a>
 
@@ -64,7 +64,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sheharyarIshfaq/Al-Quran.git
+   git clone https://github.com/WajihulHassan944/Quran-Surahs.git
    ```
 1. Install NPM packages
    ```sh
@@ -79,8 +79,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Contact
 
-Sheharyar Ishfaq - [Facebook](https://web.facebook.com/sheharyarishfaq1) - [Linkedin](https://www.linkedin.com/in/sheharyar-ishfaq/)
+[Linkedin](https://www.linkedin.com/in/the-wajih-ul-hassan/)
 
-Project Link: [AL Quran Repository](https://github.com/sheharyarIshfaq/Al-Quran)
+Project Link: [AL Quran Repository](https://github.com/WajihulHassan944/Quran-Surahs)
 
 Live Preview Link: [Al Quran](https://al-quran-a519d.web.app/)
